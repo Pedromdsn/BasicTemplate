@@ -1,0 +1,5 @@
+name: CocoTeste
+main: me.coco.teste.Main
+version: 1.0
+author: CocoBlanco
+commands:

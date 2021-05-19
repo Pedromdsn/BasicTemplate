@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c421ac0-c5b3-41a5-9d21-e89f8203614e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Teste" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Teste" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Teste" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Teste" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/JetBrains/IntelliJ IDEA Community Edition 2020.2.3/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n52B1cUfWI4P264DJ8iVfTmwYq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin&#10;JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\Desktop\Internet Explorer\Code\Java\Jar" />
+      <recent name="C:\Users\pedro\IdeaProjects" />
+      <recent name="C:\Users\pedro\Desktop\Internet Explorer\Code\Kotlin" />
+      <recent name="C:\Users\pedro\Desktop\Internet Explorer\Kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\Desktop\Internet Explorer\Kotlin\CocoTeste\src\main" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="me.coco.teste.api" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle pdm build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Template [pdm build]">
+    <configuration name="CocoTemplate [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CocoTeste [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Template [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Template [pdm build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="pdm" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Template [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Template [pdm build]" />
+        <item itemvalue="Gradle.CocoTemplate [clean]" />
+        <item itemvalue="Gradle.CocoTeste [shadowJar]" />
+        <item itemvalue="Gradle.Template [test]" />
+        <item itemvalue="Gradle.Template [check]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\pedro\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c421ac0-c5b3-41a5-9d21-e89f8203614e" name="Default Changelist" comment="" />
+      <created>1610665491804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610665491804</updated>
+      <workItem from="1611219573324" duration="45000" />
+      <workItem from="1611311973241" duration="3975000" />
+      <workItem from="1611325934423" duration="4716000" />
+      <workItem from="1611686401554" duration="341000" />
+      <workItem from="1611787204116" duration="16000" />
+      <workItem from="1612033445650" duration="5177000" />
+      <workItem from="1612107158961" duration="2465000" />
+      <workItem from="1612116842020" duration="2294000" />
+      <workItem from="1612121697718" duration="6517000" />
+      <workItem from="1612215742953" duration="24000" />
+      <workItem from="1612279811664" duration="1547000" />
+      <workItem from="1612290006971" duration="782000" />
+      <workItem from="1612291987592" duration="19000" />
+      <workItem from="1612392208501" duration="59000" />
+      <workItem from="1612392296614" duration="2020000" />
+      <workItem from="1612456886428" duration="54000" />
+      <workItem from="1612456997148" duration="2201000" />
+      <workItem from="1612537776519" duration="637000" />
+      <workItem from="1612627227039" duration="1088000" />
+      <workItem from="1612636883273" duration="3448000" />
+      <workItem from="1612718887615" duration="28000" />
+      <workItem from="1612719896735" duration="2552000" />
+      <workItem from="1612740482196" duration="26000" />
+      <workItem from="1612995224505" duration="665000" />
+      <workItem from="1613475800438" duration="2431000" />
+      <workItem from="1613514836178" duration="386000" />
+      <workItem from="1613515441166" duration="653000" />
+      <workItem from="1613516987384" duration="213000" />
+      <workItem from="1613517237707" duration="339000" />
+      <workItem from="1613600524758" duration="358000" />
+      <workItem from="1613605677701" duration="818000" />
+      <workItem from="1613663161581" duration="599000" />
+      <workItem from="1613750079795" duration="591000" />
+      <workItem from="1613844869361" duration="412000" />
+      <workItem from="1614076984220" duration="718000" />
+      <workItem from="1614077727770" duration="557000" />
+      <workItem from="1614078331975" duration="44000" />
+      <workItem from="1614092699380" duration="595000" />
+      <workItem from="1614117109161" duration="588000" />
+      <workItem from="1614203236087" duration="467000" />
+      <workItem from="1614209030088" duration="216000" />
+      <workItem from="1614264703229" duration="1353000" />
+      <workItem from="1614266092296" duration="226000" />
+      <workItem from="1614280162269" duration="1482000" />
+      <workItem from="1614294311642" duration="43000" />
+      <workItem from="1614366878932" duration="55000" />
+      <workItem from="1614386840618" duration="41000" />
+      <workItem from="1614441669359" duration="249000" />
+      <workItem from="1614443165784" duration="31000" />
+      <workItem from="1614528053166" duration="1414000" />
+      <workItem from="1614544686112" duration="3134000" />
+      <workItem from="1614555392812" duration="595000" />
+      <workItem from="1614596143171" duration="839000" />
+      <workItem from="1614611489850" duration="249000" />
+      <workItem from="1614611763953" duration="3023000" />
+      <workItem from="1614635319469" duration="7000" />
+      <workItem from="1614681471849" duration="595000" />
+      <workItem from="1614687712019" duration="102000" />
+      <workItem from="1614697584147" duration="16096000" />
+      <workItem from="1614768586915" duration="1951000" />
+      <workItem from="1614787946875" duration="987000" />
+      <workItem from="1614795477208" duration="5248000" />
+      <workItem from="1614810580624" duration="7576000" />
+      <workItem from="1614883723824" duration="651000" />
+      <workItem from="1614884543222" duration="112000" />
+      <workItem from="1614885751595" duration="593000" />
+      <workItem from="1614980530099" duration="63000" />
+      <workItem from="1614987498433" duration="460000" />
+      <workItem from="1615054227777" duration="2000" />
+      <workItem from="1615320408906" duration="1951000" />
+      <workItem from="1615329668511" duration="26000" />
+      <workItem from="1615388397077" duration="306000" />
+      <workItem from="1615389991921" duration="2844000" />
+      <workItem from="1615481246164" duration="45000" />
+      <workItem from="1615637873384" duration="2568000" />
+      <workItem from="1615648434635" duration="1074000" />
+      <workItem from="1615678971992" duration="619000" />
+      <workItem from="1615734693634" duration="95000" />
+      <workItem from="1616276739611" duration="431000" />
+      <workItem from="1616277484133" duration="629000" />
+      <workItem from="1616284079996" duration="12000" />
+      <workItem from="1616335985960" duration="594000" />
+      <workItem from="1616360741976" duration="2000" />
+      <workItem from="1616368619182" duration="5000" />
+      <workItem from="1616429179619" duration="775000" />
+      <workItem from="1616490458157" duration="249000" />
+      <workItem from="1616590327928" duration="93000" />
+      <workItem from="1616684894716" duration="3566000" />
+      <workItem from="1616699285089" duration="4000" />
+      <workItem from="1616699683127" duration="629000" />
+      <workItem from="1616701025876" duration="125000" />
+      <workItem from="1616701268807" duration="37000" />
+      <workItem from="1616701334262" duration="62000" />
+      <workItem from="1616702186018" duration="18000" />
+      <workItem from="1616702286844" duration="89000" />
+      <workItem from="1616703026029" duration="51000" />
+      <workItem from="1616767639119" duration="693000" />
+      <workItem from="1616771575299" duration="1791000" />
+      <workItem from="1617137191125" duration="140000" />
+      <workItem from="1617137365921" duration="636000" />
+      <workItem from="1617387391095" duration="6000" />
+      <workItem from="1617387425469" duration="3000" />
+      <workItem from="1617387478664" duration="17000" />
+      <workItem from="1617387514627" duration="1415000" />
+      <workItem from="1617391173302" duration="110000" />
+      <workItem from="1617391314147" duration="253000" />
+      <workItem from="1617391600405" duration="3586000" />
+      <workItem from="1617403896226" duration="29000" />
+      <workItem from="1617748778380" duration="271000" />
+      <workItem from="1617816287092" duration="48000" />
+      <workItem from="1618009984010" duration="392000" />
+      <workItem from="1618075320100" duration="293000" />
+      <workItem from="1618076321434" duration="41000" />
+      <workItem from="1618076870614" duration="219000" />
+      <workItem from="1618094186460" duration="125000" />
+      <workItem from="1618157729876" duration="623000" />
+      <workItem from="1618245946034" duration="1514000" />
+      <workItem from="1618248365184" duration="2318000" />
+      <workItem from="1618267106222" duration="757000" />
+      <workItem from="1618334048125" duration="6930000" />
+      <workItem from="1618410042659" duration="1826000" />
+      <workItem from="1618429089938" duration="1204000" />
+      <workItem from="1618432705312" duration="36000" />
+      <workItem from="1618497122821" duration="642000" />
+      <workItem from="1618583388022" duration="1506000" />
+      <workItem from="1618585365759" duration="615000" />
+      <workItem from="1618586069384" duration="1849000" />
+      <workItem from="1618600497700" duration="2017000" />
+      <workItem from="1618610507487" duration="786000" />
+      <workItem from="1618685404697" duration="1707000" />
+      <workItem from="1618693289017" duration="350000" />
+      <workItem from="1618857680142" duration="11387000" />
+      <workItem from="1618917287854" duration="746000" />
+      <workItem from="1618918479576" duration="1083000" />
+      <workItem from="1618920048207" duration="238000" />
+      <workItem from="1618925398907" duration="96000" />
+      <workItem from="1618925539896" duration="135000" />
+      <workItem from="1618935060070" duration="4370000" />
+      <workItem from="1618959257545" duration="1010000" />
+      <workItem from="1618960323513" duration="720000" />
+      <workItem from="1618961081188" duration="2870000" />
+      <workItem from="1618997376297" duration="1060000" />
+      <workItem from="1618998476160" duration="575000" />
+      <workItem from="1619001539689" duration="368000" />
+      <workItem from="1619005199453" duration="867000" />
+      <workItem from="1619022866990" duration="8824000" />
+      <workItem from="1619091245873" duration="2776000" />
+      <workItem from="1619101695468" duration="28000" />
+      <workItem from="1619102765067" duration="33000" />
+      <workItem from="1619135470529" duration="542000" />
+      <workItem from="1619386788417" duration="198000" />
+      <workItem from="1619389152097" duration="1372000" />
+      <workItem from="1619532403032" duration="605000" />
+      <workItem from="1619554185858" duration="216000" />
+      <workItem from="1619569048011" duration="34000" />
+      <workItem from="1619570374944" duration="449000" />
+      <workItem from="1619643621056" duration="1518000" />
+      <workItem from="1619662556829" duration="37000" />
+      <workItem from="1620215850223" duration="87000" />
+      <workItem from="1620332900945" duration="43000" />
+      <workItem from="1620333082071" duration="3126000" />
+      <workItem from="1620340400485" duration="1576000" />
+      <workItem from="1620396809859" duration="30000" />
+      <workItem from="1620664433520" duration="81000" />
+      <workItem from="1620741003290" duration="673000" />
+      <workItem from="1620769844548" duration="324000" />
+      <workItem from="1620770568011" duration="17000" />
+      <workItem from="1620835581500" duration="5000" />
+      <workItem from="1620851912924" duration="377000" />
+      <workItem from="1621266136482" duration="8000" />
+      <workItem from="1621289500830" duration="1459000" />
+      <workItem from="1621291060583" duration="768000" />
+      <workItem from="1621430802916" duration="5000" />
+      <workItem from="1621445465235" duration="575000" />
+      <workItem from="1621446126738" duration="69000" />
+    </task>
+    <task id="LOCAL-00023" summary="Teste">
+      <created>1613600750252</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1613600750252</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Trocado o if por when">
+      <created>1613607571046</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613607571046</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Ajustes">
+      <created>1613845167139</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1613845167139</updated>
+    </task>
+    <task id="LOCAL-00026" summary="So para add">
+      <created>1614203374143</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1614203374143</updated>
+    </task>
+    <task id="LOCAL-00027" summary="So para add">
+      <created>1614203467222</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1614203467222</updated>
+    </task>
+    <task id="LOCAL-00028" summary="A">
+      <created>1614209091323</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1614209091323</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ajustes">
+      <created>1614441818279</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1614441818280</updated>
+    </task>
+    <task id="LOCAL-00030" summary="01/03">
+      <created>1614596424845</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1614596424845</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Adiciona gestor de Loc/String">
+      <created>1614709631473</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1614709631473</updated>
+    </task>
+    <task id="LOCAL-00032" summary="InventoryAPI">
+      <created>1614715129286</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1614715129286</updated>
+    </task>
+    <task id="LOCAL-00033" summary="ItemAPI">
+      <created>1614716581814</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1614716581814</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Melhorias">
+      <created>1614722623049</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1614722623049</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Melhorias">
+      <created>1614722714238</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1614722714239</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Melhorias">
+      <created>1614725080048</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1614725080048</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Melhorias">
+      <created>1614725220014</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1614725220014</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Mini UP">
+      <created>1614788317486</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1614788317486</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Melhorias">
+      <created>1614798039609</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1614798039609</updated>
+    </task>
+    <task id="LOCAL-00040" summary="a">
+      <created>1614815886819</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1614815886819</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Recipe API">
+      <created>1615393921613</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1615393921613</updated>
+    </task>
+    <task id="LOCAL-00042" summary="New Command API">
+      <created>1615648484311</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1615648484311</updated>
+    </task>
+    <task id="LOCAL-00043" summary="CocoAPI">
+      <created>1615648873801</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1615648873801</updated>
+    </task>
+    <task id="LOCAL-00044" summary="CocoAPI">
+      <created>1615649088973</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1615649088973</updated>
+    </task>
+    <task id="LOCAL-00045" summary=":)">
+      <created>1616490673241</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1616490673241</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Adicionado a função head na API e adicionado internal na API">
+      <created>1618010219269</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1618010219269</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Sistema de licenças melhorado">
+      <created>1618410080451</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1618410080451</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Melhorias">
+      <created>1618587786486</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1618587786487</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Melhorias">
+      <created>1618605150345</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1618605150345</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Melhorias">
+      <created>1618688227732</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1618688227733</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Tentativa de usar reflection">
+      <created>1618871729522</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1618871729522</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Tentativa de usar reflection">
+      <created>1618871750758</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1618871750758</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Tentativa">
+      <created>1618938234617</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1618938234618</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Tentativa">
+      <created>1618939556144</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1618939556144</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Player.sendParticula&#10;Location.sendParticula&#10;Adicionados">
+      <created>1618940220977</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1618940220977</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Melhorias na CocoAPI">
+      <created>1618941434674</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1618941434674</updated>
+    </task>
+    <task id="LOCAL-00057" summary="sendActionBar Reflextion">
+      <created>1618963318877</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1618963318877</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Ajustes">
+      <created>1618963947855</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1618963947855</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Create sendPackets (not tested)">
+      <created>1618998008110</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1618998008110</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Criada a função serverVersion() que retorna a versão NMS do sv">
+      <created>1618998586807</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1618998586808</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Mudanças no Design">
+      <created>1619023435107</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1619023435107</updated>
+    </task>
+    <task id="LOCAL-00062" summary="PDM">
+      <created>1619044134961</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1619044134961</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Tudo para English">
+      <created>1619044327388</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1619044327388</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Ultimos ajustes">
+      <created>1619051560512</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1619051560513</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Melhorias no gradle">
+      <created>1619091739590</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1619091739592</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Retiradas repetições no gradle">
+      <created>1619091843816</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1619091843816</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Simplificada a Main">
+      <created>1619098021254</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1619098021254</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Erro">
+      <created>1619390222740</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1619390222741</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Preparado o Mysql do json">
+      <created>1619645014667</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1619645014668</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Msg traduzida">
+      <created>1620139182577</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1620139182578</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Ajustes">
+      <created>1620338291333</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1620338291337</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="New Command API" />
+    <MESSAGE value="CocoAPI" />
+    <MESSAGE value=":)" />
+    <MESSAGE value="Adicionado a função head na API e adicionado internal na API" />
+    <MESSAGE value="SQLite implementado" />
+    <MESSAGE value="Sistema de licenças melhorado" />
+    <MESSAGE value="Melhorias" />
+    <MESSAGE value="Tentativa de usar reflection" />
+    <MESSAGE value="Tentativa" />
+    <MESSAGE value="Player.sendParticula&#10;Location.sendParticula&#10;Adicionados" />
+    <MESSAGE value="Melhorias na CocoAPI" />
+    <MESSAGE value="sendActionBar Reflextion" />
+    <MESSAGE value="Create sendPackets (not tested)" />
+    <MESSAGE value="Criada a função serverVersion() que retorna a versão NMS do sv" />
+    <MESSAGE value="Mudanças no Design" />
+    <MESSAGE value="PDM" />
+    <MESSAGE value="Tudo para English" />
+    <MESSAGE value="Ultimos ajustes" />
+    <MESSAGE value="Melhorias no gradle" />
+    <MESSAGE value="Retiradas repetições no gradle" />
+    <MESSAGE value="Simplificada a Main" />
+    <MESSAGE value="Erro" />
+    <MESSAGE value="Preparado o Mysql do json" />
+    <MESSAGE value="Msg traduzida" />
+    <MESSAGE value="Ajustes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
