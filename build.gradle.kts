@@ -42,12 +42,8 @@ tasks {
     shadowJar {
         classifier = null
 
-        destinationDir = if (File("C:\\Users\\pedro\\Desktop\\Internet Explorer\\Minecraft\\Server\\zArquivos\\1.8\\plugins").exists())
-            File("C:\\Users\\pedro\\Desktop\\Internet Explorer\\Minecraft\\Server\\zArquivos\\1.8\\plugins")
-        else if (File("C:\\Users\\pedro\\Desktop\\Internet Explorer\\Dev\\Minecraft\\1.8\\plugins").exists())
-            File("C:\\Users\\pedro\\Desktop\\Internet Explorer\\Dev\\Minecraft\\1.8\\plugins")
-        else
-            File(".")
+        destinationDir = File("Sua pasta") 
+
     }
     build {
         dependsOn("pdm", "shadowJar")

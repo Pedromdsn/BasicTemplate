@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c421ac0-c5b3-41a5-9d21-e89f8203614e" name="Default Changelist" comment="" />
+    <list default="true" id="2c421ac0-c5b3-41a5-9d21-e89f8203614e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -433,14 +436,7 @@
       <workItem from="1621291060583" duration="768000" />
       <workItem from="1621430802916" duration="5000" />
       <workItem from="1621445465235" duration="575000" />
-      <workItem from="1621446126738" duration="69000" />
-    </task>
-    <task id="LOCAL-00023" summary="Teste">
-      <created>1613600750252</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1613600750252</updated>
+      <workItem from="1621446126738" duration="1369000" />
     </task>
     <task id="LOCAL-00024" summary="Trocado o if por when">
       <created>1613607571046</created>
@@ -778,7 +774,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620338291337</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Template feita para o curso">
+      <created>1621446247884</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1621446247884</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -801,7 +804,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="New Command API" />
     <MESSAGE value="CocoAPI" />
     <MESSAGE value=":)" />
     <MESSAGE value="Adicionado a função head na API e adicionado internal na API" />
@@ -826,7 +828,8 @@
     <MESSAGE value="Preparado o Mysql do json" />
     <MESSAGE value="Msg traduzida" />
     <MESSAGE value="Ajustes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustes" />
+    <MESSAGE value="Template feita para o curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template feita para o curso" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
